@@ -54,10 +54,16 @@ or through Debit card.
 status and expected delivery date.
 
 • Users: For this system, two types of user are defined: Customer and Administrator
+
 o Anyone can register as a customer
+
 o A customer can view and purchase multiple products
+
 o An administrator has the power to add/delete a product and can also edit product
 information.
+
 o An administrator can also add/remove a user and edit any user’s information.
 
-
+This system is capable of running a general purpose shop selling electronic products. The system takes care of all the requirements of the shop
+and is capable to provide easy and effective storage of information related to customers and the items
+available.
