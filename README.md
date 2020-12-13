@@ -5,7 +5,7 @@ select products of interest. The selected items may be collected in a shopping c
 checkout time, the items in the shopping cart will be presented as an order. At that time, more
 information will be needed to complete the transaction.
 
-## Organization of the Project
+Organization of the Project
 
 Online Electronic Application Store Database will do following processes:
 
@@ -47,7 +47,7 @@ shopping cart
 the products will be shown here.
 
 • Payment: After selecting all the products needed, the cost of all the products are
-displayed and the customer is asked for the payment details – whether Cash on Delivery
+displayed and the customer is asked for the payment details whether Cash on Delivery
 or through Debit card.
 
 • Final Checkout: This will show the final details of the product purchased, payment
