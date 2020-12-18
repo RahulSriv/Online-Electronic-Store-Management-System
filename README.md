@@ -7,7 +7,7 @@ information will be needed to complete the transaction.
 
 Organization of the Project
 
-Online Electronic Application Store Database will do following processes:
+Online Electronic Application Store Database will do the following processes:
 
 • Any member can register and view available products
 
