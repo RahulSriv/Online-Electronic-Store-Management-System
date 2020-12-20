@@ -1,11 +1,11 @@
-# Online-Electronic-Store-Management-System
+# Online Electronic Store Management System
 An ecommerce mini project facilitating buying and selling of electronic items. Here the frontend of the app was made using Java JDBC and Java Swing and the backend database was implemented using MySQL.
 An online store is a virtual store on the Internet where customers can browse the catalog and
 select products of interest. The selected items may be collected in a shopping cart. At
 checkout time, the items in the shopping cart will be presented as an order. At that time, more
 information will be needed to complete the transaction.
 
-Organization of the Project
+### Organization of the Project
 
 Online Electronic Application Store Database will do the following processes:
 
