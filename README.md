@@ -19,7 +19,7 @@ products
 • User can view and purchase products.
 
 • An Admin has some extra privilege including all privilege of visitor and user. Admin
-can add products, edit product information and add/remove product.
+can add products, edit product information and remove products.
 
 • Admin can add user, edit user information and can remove user.
 
